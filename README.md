@@ -7,7 +7,7 @@ Data Scientist Jr.
 Welcome to my GitHub repository! I'm an aspiring data scientist with a background in economics, skilled in Python, SQL, machine learning, and database management. This repository showcases my journey in data science through various projects.
 
 * 🌍  I'm based in Arequipa, Peru
-* 🖥️  See my portfolio at [TripleTen\_Projects](http://dfgdfgfdgdsfgdfg)
+* 🖥️  See my portfolio at [TripleTen\_Projects](https://github.com/pfhuamanflores/TripleTen_Projects)
 * ✉️  You can contact me at [paulohfaqp@gmail.com](mailto:paulohfaqp@gmail.com)
 * 🧠  I'm learning MLOps, Power BI
 * 🤝  I'm open to collaborating on Interesting projects
