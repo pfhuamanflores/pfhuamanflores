@@ -1,8 +1,5 @@
 # Hi 👋! My name is Paulo
-===============================================================================================================
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5aGpubGUzeXNlOXA1cjhrNWM2cHhkamNlb3cweXd0aWt1cW5wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif"  />
-
+==========================================================
 
 <a href="https://twitter.com/@Paulofhf1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -20,6 +17,8 @@ Data Scientist Jr.
 ------------------
 
 Welcome to my GitHub repository! I'm an aspiring data scientist with a background in economics, skilled in Python, SQL, machine learning, and database management. This repository showcases my journey in data science through various projects.
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5aGpubGUzeXNlOXA1cjhrNWM2cHhkamNlb3cweXd0aWt1cW5wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif"  />
 
 * 🌍  I'm based in Arequipa, Peru
 * 🖥️  See my portfolio at [TripleTen\_Projects](https://github.com/pfhuamanflores/TripleTen_Projects)
