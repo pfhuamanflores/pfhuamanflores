@@ -55,7 +55,6 @@ Welcome to my GitHub repository! I'm an aspiring data scientist with a backgroun
 
 <br/>  
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/pfhuamanflores/pfhuamanflores/output/snake.svg" alt="Snake animation" />
 
