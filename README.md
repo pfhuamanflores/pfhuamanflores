@@ -1,5 +1,3 @@
-![image](https://www.canva.com/design/DAGKH1On2mA/vJpoz87V7HiA7LLHStBiOg/view)
-
 # Hi 👋! My name is Paulo
 ==========================================================
 
