@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Paulo</h2>
-=============================================================================================================================
+===============================================================================================================
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5aGpubGUzeXNlOXA1cjhrNWM2cHhkamNlb3cweXd0aWt1cW5wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif"  />
 
